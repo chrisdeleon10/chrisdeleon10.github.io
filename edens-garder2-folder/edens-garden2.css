@@ -1,0 +1,78 @@
+h1.header {
+    font-size: 80px;
+    background: -webkit-linear-gradient(#78cab7, #19adad);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.header-subtext {
+    font-size: 20px;
+    background: -webkit-linear-gradient(#78cab7, #19adad);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-style: italic;
+}
+.about-content h2 {
+    background: -webkit-linear-gradient(#78cab7, #19adad);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: 50px;
+}
+.about-content p {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    padding: 10px;
+    font-size: 22px;
+}
+.blank-space {
+    height: 150px;
+}
+
+.blank-space-2 {
+    height: 100px;
+}
+.edens-logo {
+    width: 300px;
+    border-radius: 70%;
+    filter: brightness(1);
+}
+.p-box{
+    width:800px;
+    height:500px;
+    border:1px solid #000;
+    margin-top:30px;
+    position:relative;
+    background-image:url
+    background-repeat: no-repeat;
+    background-position:100px 200px;
+    background-position:center center;
+}
+
+.grass-images {
+    padding: 20px;
+}
+
+.rock-images {
+    padding: 20px;
+}
+
+.my-form input, .my-form textarea{
+padding:8px;
+width: 100%;
+}
+
+input.button {
+    width: 240px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    background: #43b9b2;
+    color: white;
+    font-size: 18px;
+}
+
+input.button:hover {
+    background: white;
+    color: #43b9b2;
+    border-color: #43b9b2;
+}
